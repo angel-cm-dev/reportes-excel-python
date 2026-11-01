@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reportes-excel-python"
+version = "1.0.0"
+description = "Genera reportes de ventas en Excel (openpyxl) con agregados, formato S/ y gráficos."
+authors = [{ name = "Angel Castañeda Meza" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["openpyxl>=3.1"]
+
+[project.scripts]
+reporte-ventas = "reportes_ventas.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

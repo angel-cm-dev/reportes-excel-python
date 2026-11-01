@@ -1,0 +1,73 @@
+fecha,vendedor,producto,cantidad,precio_unitario
+2026-01-01,Lucía Paredes,Audífonos BT,1,159.00
+2026-01-03,Carmen Villanueva,Audífonos BT,3,159.00
+2026-01-04,Lucía Paredes,Teclado mecánico,2,219.50
+2026-01-10,Jorge Ríos,Laptop 14 pulgadas,1,2899.00
+2026-01-13,Carmen Villanueva,Teclado mecánico,3,219.50
+2026-01-14,Jorge Ríos,Laptop 14 pulgadas,2,2899.00
+2026-01-15,Carmen Villanueva,Monitor 24 pulgadas,1,649.90
+2026-01-18,Jorge Ríos,Mouse inalámbrico,2,79.90
+2026-01-20,Jorge Ríos,Audífonos BT,5,159.00
+2026-01-26,Lucía Paredes,Mouse inalámbrico,3,79.90
+2026-01-27,Carmen Villanueva,Mouse inalámbrico,2,79.90
+2026-01-28,Carmen Villanueva,Teclado mecánico,4,219.50
+2026-02-01,Diego Salazar,Laptop 14 pulgadas,2,2899.00
+2026-02-05,Diego Salazar,Mouse inalámbrico,1,79.90
+2026-02-08,Lucía Paredes,Monitor 24 pulgadas,5,649.90
+2026-02-09,Jorge Ríos,Audífonos BT,3,159.00
+2026-02-13,Carmen Villanueva,Audífonos BT,4,159.00
+2026-02-14,Carmen Villanueva,Monitor 24 pulgadas,3,649.90
+2026-02-18,Jorge Ríos,Audífonos BT,4,159.00
+2026-02-19,Lucía Paredes,Mouse inalámbrico,5,79.90
+2026-02-21,Jorge Ríos,Mouse inalámbrico,5,79.90
+2026-02-22,Jorge Ríos,Laptop 14 pulgadas,2,2899.00
+2026-02-26,Jorge Ríos,Audífonos BT,3,159.00
+2026-02-28,Jorge Ríos,Laptop 14 pulgadas,2,2899.00
+2026-03-03,Jorge Ríos,Teclado mecánico,3,219.50
+2026-03-04,Jorge Ríos,Monitor 24 pulgadas,2,649.90
+2026-03-05,Carmen Villanueva,Laptop 14 pulgadas,2,2899.00
+2026-03-07,Jorge Ríos,Teclado mecánico,4,219.50
+2026-03-15,Jorge Ríos,Laptop 14 pulgadas,2,2899.00
+2026-03-15,Jorge Ríos,Monitor 24 pulgadas,4,649.90
+2026-03-15,Lucía Paredes,Audífonos BT,5,159.00
+2026-03-15,Lucía Paredes,Laptop 14 pulgadas,1,2899.00
+2026-03-17,Jorge Ríos,Mouse inalámbrico,5,79.90
+2026-03-20,Carmen Villanueva,Laptop 14 pulgadas,2,2899.00
+2026-03-22,Carmen Villanueva,Laptop 14 pulgadas,2,2899.00
+2026-03-26,Diego Salazar,Monitor 24 pulgadas,1,649.90
+2026-04-01,Jorge Ríos,Audífonos BT,3,159.00
+2026-04-01,Jorge Ríos,Laptop 14 pulgadas,1,2899.00
+2026-04-02,Carmen Villanueva,Teclado mecánico,1,219.50
+2026-04-04,Jorge Ríos,Mouse inalámbrico,5,79.90
+2026-04-10,Jorge Ríos,Audífonos BT,4,159.00
+2026-04-14,Diego Salazar,Monitor 24 pulgadas,5,649.90
+2026-04-17,Jorge Ríos,Monitor 24 pulgadas,5,649.90
+2026-04-19,Carmen Villanueva,Monitor 24 pulgadas,1,649.90
+2026-04-20,Diego Salazar,Monitor 24 pulgadas,5,649.90
+2026-04-22,Jorge Ríos,Teclado mecánico,3,219.50
+2026-04-23,Diego Salazar,Monitor 24 pulgadas,4,649.90
+2026-04-26,Diego Salazar,Monitor 24 pulgadas,4,649.90
+2026-05-06,Jorge Ríos,Teclado mecánico,4,219.50
+2026-05-06,Jorge Ríos,Teclado mecánico,4,219.50
+2026-05-11,Diego Salazar,Mouse inalámbrico,1,79.90
+2026-05-13,Diego Salazar,Teclado mecánico,3,219.50
+2026-05-14,Jorge Ríos,Audífonos BT,1,159.00
+2026-05-16,Diego Salazar,Laptop 14 pulgadas,1,2899.00
+2026-05-18,Lucía Paredes,Mouse inalámbrico,2,79.90
+2026-05-21,Lucía Paredes,Monitor 24 pulgadas,5,649.90
+2026-05-22,Jorge Ríos,Monitor 24 pulgadas,3,649.90
+2026-05-25,Carmen Villanueva,Mouse inalámbrico,4,79.90
+2026-05-26,Diego Salazar,Audífonos BT,2,159.00
+2026-05-27,Jorge Ríos,Laptop 14 pulgadas,1,2899.00
+2026-06-03,Carmen Villanueva,Mouse inalámbrico,4,79.90
+2026-06-04,Carmen Villanueva,Audífonos BT,1,159.00
+2026-06-05,Carmen Villanueva,Laptop 14 pulgadas,1,2899.00
+2026-06-10,Carmen Villanueva,Audífonos BT,5,159.00
+2026-06-14,Lucía Paredes,Monitor 24 pulgadas,1,649.90
+2026-06-17,Carmen Villanueva,Teclado mecánico,5,219.50
+2026-06-18,Lucía Paredes,Monitor 24 pulgadas,3,649.90
+2026-06-20,Diego Salazar,Teclado mecánico,5,219.50
+2026-06-22,Diego Salazar,Audífonos BT,1,159.00
+2026-06-25,Diego Salazar,Teclado mecánico,1,219.50
+2026-06-28,Carmen Villanueva,Monitor 24 pulgadas,5,649.90
+2026-06-28,Diego Salazar,Monitor 24 pulgadas,1,649.90
